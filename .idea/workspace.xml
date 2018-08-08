@@ -49,8 +49,8 @@
       <file leaf-file-name="holiday.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/calendar_engine/holiday.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+            <state relative-caret-position="234">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -282,12 +282,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533716559441</updated>
       <workItem from="1533716562184" duration="3273000" />
-      <workItem from="1533728795776" duration="2841000" />
+      <workItem from="1533728795776" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8339000" />
+    <option name="totallyTimeSpent" value="8706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="23" width="1334" height="865" extended-state="0" />
@@ -504,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/calendar_engine/holiday.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
