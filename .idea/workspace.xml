@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4d4b67f-7319-425f-88e6-2d620761a329" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
       <change beforePath="$PROJECT_DIR$/lib/calendar_engine/engine.rb" afterPath="$PROJECT_DIR$/lib/calendar_engine/engine.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -41,8 +39,8 @@
       <file leaf-file-name="engine.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/calendar_engine/engine.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="156">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -142,12 +140,6 @@
               <item name="CalendarEngine" type="b2602c69:ProjectViewProjectNode" />
               <item name="CalendarEngine" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalendarEngine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalendarEngine" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="calendar_engine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,12 +282,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533716559441</updated>
       <workItem from="1533716562184" duration="3273000" />
-      <workItem from="1533728795776" duration="1521000" />
+      <workItem from="1533728795776" duration="1809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7019000" />
+    <option name="totallyTimeSpent" value="7307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="23" width="1334" height="865" extended-state="0" />
@@ -512,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/calendar_engine/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>

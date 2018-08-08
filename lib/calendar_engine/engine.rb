@@ -2,8 +2,8 @@ module CalendarEngine
   class Engine < ::Rails::Engine
     isolate_namespace CalendarEngine
 
-    config.paths["db/migrate"].expanded.each do |expanded_path|
-      Rails.application.config.paths["db/migrate"] << expanded_path
-    end
+    config.autoload_paths += Dir["#{config.root}/lib/**/"]
+    config.autoload_paths += Dir["#{config.root}/db/**/"]
+
   end
 end
