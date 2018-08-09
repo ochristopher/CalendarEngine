@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4d4b67f-7319-425f-88e6-2d620761a329" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/models/calendar_engine/holiday.rb" afterPath="$PROJECT_DIR$/app/models/calendar_engine/holiday.rb" />
+      <change beforePath="$PROJECT_DIR$/calendar_engine.gemspec" afterPath="$PROJECT_DIR$/calendar_engine.gemspec" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="calendar_engine.gemspec" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calendar_engine.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="20180808115953_create_calendar_engine_holidays.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20180808115953_create_calendar_engine_holidays.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,17 +50,17 @@
         <entry file="file://$PROJECT_DIR$/lib/calendar_engine/engine.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="holiday.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="holiday.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/calendar_engine/holiday.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -68,12 +78,12 @@
         <option value="$PROJECT_DIR$/lib/calendar_engine.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/database.mine.yml" />
-        <option value="$PROJECT_DIR$/calendar_engine.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/db/migrate/20180808115953_create_calendar_engine_holidays.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/lib/calendar_engine/engine.rb" />
         <option value="$PROJECT_DIR$/app/models/calendar_engine/holiday.rb" />
+        <option value="$PROJECT_DIR$/calendar_engine.gemspec" />
       </list>
     </option>
   </component>
@@ -140,6 +150,12 @@
               <item name="CalendarEngine" type="b2602c69:ProjectViewProjectNode" />
               <item name="CalendarEngine" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalendarEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalendarEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="calendar_engine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533716559441</updated>
       <workItem from="1533716562184" duration="3273000" />
-      <workItem from="1533728795776" duration="3208000" />
+      <workItem from="1533728795776" duration="4376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8706000" />
+    <option name="totallyTimeSpent" value="9874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="23" width="1334" height="865" extended-state="0" />
@@ -454,14 +470,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb" />
     <entry file="file://$PROJECT_DIR$/config/boot.rb" />
-    <entry file="file://$PROJECT_DIR$/calendar_engine.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/calendar_engine/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -486,10 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180808115953_create_calendar_engine_holidays.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/calendar_engine/holiday.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -497,15 +505,23 @@
     <entry file="file://$PROJECT_DIR$/lib/calendar_engine/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/calendar_engine/holiday.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180808115953_create_calendar_engine_holidays.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="312">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar_engine.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>
